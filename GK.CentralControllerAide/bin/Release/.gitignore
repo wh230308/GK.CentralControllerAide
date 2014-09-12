@@ -1,2 +1,3 @@
 #忽略IDE自动生成的文件
-!projector232Codes.xml
+*.exe
+*.pdb

@@ -65,6 +65,7 @@
       <DependentUpon>GK800Window.xaml</DependentUpon>
     </Compile>
     <Compile Include="LoadXml.cs" />
+    <Compile Include="ProcessXmlFiles.cs" />
     <Compile Include="RS232Communication.cs" />
     <Compile Include="ShowNetworkConfig.xaml.cs">
       <DependentUpon>ShowNetworkConfig.xaml</DependentUpon>
