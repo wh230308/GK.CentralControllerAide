@@ -1,0 +1,36 @@
+﻿<Window x:Class="GK.CentralControllerAide.ShowPresetCode"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="预置功能配置如下" Height="300" Width="500" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#767676">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Label Content="开机打开投影机" FontSize="13" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label1" VerticalAlignment="Center" />
+        <TextBlock Foreground="Blue" Height="23" HorizontalAlignment="Right" Margin="0,0,40,0" Name="textBlock1" Text="" VerticalAlignment="Center" />
+        <Label Content="开机是否降幕布 " Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label2" VerticalAlignment="Center" Grid.Column="1" />
+        <TextBlock Foreground="Blue" Height="23" HorizontalAlignment="Right" Margin="0,0,40,0" Name="textBlock2" Text="" VerticalAlignment="Center" Grid.Column="1" />
+        <Label Content="开机视频信号" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label3" VerticalAlignment="Center" Grid.Row="1" />
+        <TextBlock Foreground="Blue" Height="23" HorizontalAlignment="Right" Margin="0,0,40,0" Name="textBlock3" Text="" VerticalAlignment="Center" Grid.Row="1" />
+        <Label Content="开机静音" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label4" VerticalAlignment="Center" Grid.Column="1" Grid.Row="1" />
+        <TextBlock Foreground="Blue" Height="23" HorizontalAlignment="Right" Margin="0,0,40,0" Name="textBlock4" Text="" VerticalAlignment="Center" Grid.Column="1" Grid.Row="1" />
+        <Label Content="开机VGA信号" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label5" VerticalAlignment="Center" Grid.Row="2" />
+        <TextBlock Foreground="Blue" Height="23" HorizontalAlignment="Right" Margin="0,0,40,0" Name="textBlock5" Text="" VerticalAlignment="Center" Grid.Row="2" />
+        <Label Content="投影机控制与幕布同步" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label6" VerticalAlignment="Center" Grid.Column="1" Grid.Row="2" />
+        <TextBlock Foreground="Blue" Height="23" HorizontalAlignment="Right" Margin="0,0,40,0" Name="textBlock6" Text="" VerticalAlignment="Center" Grid.Column="1" Grid.Row="2" />
+        <Label Content="发送1次关机码" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label7" VerticalAlignment="Center" Grid.Row="3" />
+        <TextBlock Foreground="Blue" Height="23" HorizontalAlignment="Right" Margin="0,0,40,0" Name="textBlock7" Text="" VerticalAlignment="Center" Grid.Row="3" />
+        <Label Content="关机延时" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label8" VerticalAlignment="Center" Grid.Column="1" Grid.Row="3" />
+        <TextBlock Foreground="Blue" Height="23" HorizontalAlignment="Right" Margin="0,0,40,0" Name="textBlock8" Text="" VerticalAlignment="Center" Grid.Column="1" Grid.Row="3" />
+        <Label Content="开机启动电脑" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label9" VerticalAlignment="Center" Grid.Row="4" />
+        <TextBlock Foreground="Blue" Height="23" HorizontalAlignment="Right" Margin="0,0,40,0" Name="textBlock9" Text="" VerticalAlignment="Center" Grid.Row="4" />
+    </Grid>
+</Window>

@@ -1,0 +1,33 @@
+﻿<Window x:Class="GK.CentralControllerAide.ShowProjectorConfig"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="投影机配置如下" Height="300" Width="500" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#767676">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Label Content="波特率" FontSize="13" Foreground="Blue" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label1" VerticalAlignment="Center" />
+        <Label Content="校验位" FontSize="13" Foreground="Blue" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label2" VerticalAlignment="Center" Grid.Row="1" />
+        <Label Content="开机码" FontSize="13" Foreground="Blue" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label3" VerticalAlignment="Center" Grid.Row="2" />
+        <Label Content="关机码" FontSize="13" Foreground="Blue" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label4" VerticalAlignment="Center" Grid.Row="3" />
+        <Label Content="RGB1" FontSize="13" Foreground="Blue" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label5" VerticalAlignment="Center" Grid.Row="4" />
+        <Label Content="RGB2" FontSize="13" Foreground="Blue" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label6" VerticalAlignment="Center" Grid.Row="5" />
+        <Label Content="VIDEO" FontSize="13" Foreground="Blue" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label7" VerticalAlignment="Center" Grid.Row="6" />
+        <Label Content="SVIDEO" FontSize="13" Foreground="Blue" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label8" VerticalAlignment="Center" Grid.Row="7" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="100,0,0,0" Name="textBlock1" Text="" VerticalAlignment="Center" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="100,0,0,0" Name="textBlock2" Text="" VerticalAlignment="Center" Grid.Row="1" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="100,0,0,0" Name="textBlock3" Text="" VerticalAlignment="Center" Grid.Row="2" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="100,0,0,0" Name="textBlock4" Text="" VerticalAlignment="Center" Grid.Row="3" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="100,0,0,0" Name="textBlock5" Text="" VerticalAlignment="Center" Grid.Row="4" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="100,0,0,0" Name="textBlock6" Text="" VerticalAlignment="Center" Grid.Row="5" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="100,0,0,0" Name="textBlock7" Text="" VerticalAlignment="Center" Grid.Row="6" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="100,0,0,0" Name="textBlock8" Text="" VerticalAlignment="Center" Grid.Row="7" />
+    </Grid>
+</Window>

@@ -1,0 +1,21 @@
+﻿<Window x:Class="GK.CentralControllerAide.ShowNetworkConfig"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="网卡信息配置如下" Height="250" Width="500" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#767676">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Label Content="IP地址" FontSize="13" Foreground="Blue" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label1" VerticalAlignment="Center" />
+        <Label Content="子网掩码" FontSize="13" Foreground="Blue" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label2" VerticalAlignment="Center" Grid.Row="1" />
+        <Label Content="默认网关" FontSize="13" Foreground="Blue" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label3" VerticalAlignment="Center" Grid.Row="2" />
+        <Label Content="MAC地址" FontSize="13" Foreground="Blue" Height="28" HorizontalAlignment="Left" Margin="10,0,0,0" Name="label4" VerticalAlignment="Center" Grid.Row="3" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="100,0,0,0" Name="textBlock1" Text="" VerticalAlignment="Center" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="100,0,0,0" Name="textBlock2" Text="" VerticalAlignment="Center" Grid.Row="1" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="100,0,0,0" Name="textBlock3" Text="" VerticalAlignment="Center" Grid.Row="2" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="100,0,0,0" Name="textBlock4" Text="" VerticalAlignment="Center" Grid.Row="3" />
+    </Grid>
+</Window>

@@ -1,0 +1,23 @@
+﻿<Window x:Class="GK.CentralControllerAide.ShowVerifyData"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="校验数据" Height="300" Width="500" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#767676">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="0.2*" />
+        </Grid.RowDefinitions>
+        <Button Content="清除" Grid.Row="1" Height="23" HorizontalAlignment="Center" Margin="0" Name="button1" VerticalAlignment="Center" Width="75" />
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.15*" />
+                <ColumnDefinition Width="*" />
+                
+            </Grid.ColumnDefinitions>
+            <ListBox Background="#767676" HorizontalAlignment="Stretch" BorderThickness="0" Name="listBox1" VerticalAlignment="Stretch">
+            </ListBox>
+            <ListBox Background="#767676" HorizontalAlignment="Stretch" BorderThickness="0" Name="listBox2" VerticalAlignment="Stretch" Grid.Column="1">
+            </ListBox>
+        </Grid>
+    </Grid>
+</Window>
