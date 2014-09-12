@@ -1,0 +1,3743 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigList>
+  <PresentConfig Brand="3M" Model="8746">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="FDAF" Model="X65">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 0E D2 01 00 00 20 03 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="X65">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 0E D2 01 00 00 20 03 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="X40">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="70">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 31 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="X300U">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="8780">
+    <BootCode>44 30 30 57 30 30 0D</BootCode>
+    <Shutdown>44 30 30 57 30 31 0D</Shutdown>
+    <RGB1>44 30 32 57 30 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>44 30 32 57 31 31 0D</VIDEO>
+    <SVIDEO>44 30 32 57 31 32 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="X50">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>No</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="8635">
+    <BootCode>31 11 3F</BootCode>
+    <Shutdown>31 11 3E</Shutdown>
+    <RGB1>31 21 21</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>31 21 11</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="8790">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 0E D2 01 00 00 20 03 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="8625">
+    <BootCode>31 11 1F</BootCode>
+    <Shutdown>31 11 1E</Shutdown>
+    <RGB1>31 21 21</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>31 21 11</VIDEO>
+    <SVIDEO>31 21 12</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="松下(panisonic)" Model="部分型号">
+    <BootCode>02 50 4F 4E 03</BootCode>
+    <Shutdown>02 50 4F 46 03</Shutdown>
+    <RGB1>02 49 49 53 3A 52 47 31 03</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 49 49 53 3A 56 49 44 03</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Hexadecimal>Yes</Hexadecimal>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+  </PresentConfig>
+  <PresentConfig Brand="索尼(SONY)" Model="PX11">
+    <BootCode>A9 17 2E 00 00 00 3F 9A</BootCode>
+    <Shutdown>A9 17 2F 00 00 00 3F 9A</Shutdown>
+    <RGB1>A9 17 2B 00 00 00 3F 9A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>A9 17 2A 00 00 00 3F 9A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>Even</Parity>
+    <Hexadecimal>Yes</Hexadecimal>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+  </PresentConfig>
+  <PresentConfig Brand="索尼(SONY)" Model="PX45">
+    <BootCode>A9 17 2E 00 00 00 3F 9A</BootCode>
+    <Shutdown>A9 17 2F 00 00 00 3F 9A</Shutdown>
+    <RGB1>A9 17 2B 00 00 00 3F 9A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>A9 17 2A 00 00 00 3F 9A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>Even</Parity>
+    <Hexadecimal>Yes</Hexadecimal>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+  </PresentConfig>
+  <PresentConfig Brand="索尼(SONY)" Model="TX120">
+    <BootCode>A9 17 2E 00 00 00 3F 9A</BootCode>
+    <Shutdown>A9 17 2F 00 00 00 3F 9A</Shutdown>
+    <RGB1>A9 17 2B 00 00 00 3F 9A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>A9 17 2A 00 00 00 3F 9A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>Even</Parity>
+    <Hexadecimal>Yes</Hexadecimal>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+  </PresentConfig>
+  <PresentConfig Brand="索尼(SONY)" Model="CX80">
+    <BootCode>A9 17 2E 00 00 00 3F 9A</BootCode>
+    <Shutdown>A9 17 2F 00 00 00 3F 9A</Shutdown>
+    <RGB1>A9 17 2B 00 00 00 3F 9A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>A9 17 2A 00 00 00 3F 9A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>Even</Parity>
+    <Hexadecimal>Yes</Hexadecimal>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+  </PresentConfig>
+  <PresentConfig Brand="索尼(SONY)" Model="PX40">
+    <BootCode>A9 17 2E 00 00 00 3F 9A</BootCode>
+    <Shutdown>A9 17 2F 00 00 00 3F 9A</Shutdown>
+    <RGB1>A9 00 01 00 00 02 03 9A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>A9 00 01 00 00 00 01 9A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>None</Parity>
+    <Hexadecimal>Yes</Hexadecimal>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+  </PresentConfig>
+  <PresentConfig Brand="索尼(SONY)" Model="PX35">
+    <BootCode>A9 01 02 00 00 03 03 9A</BootCode>
+    <Shutdown>A9 01 02 00 00 00 03 9A</Shutdown>
+    <RGB1>A9 00 01 00 00 01 01 9A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>A9 00 01 00 00 02 03 9A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="索尼(SONY)" Model="FX51">
+    <BootCode>A9 01 02 00 00 03 03 9A</BootCode>
+    <Shutdown>A9 01 02 00 00 00 03 9A</Shutdown>
+    <RGB1>A9 00 01 00 00 01 01 9A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>A9 00 01 00 00 02 03 9A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="索尼(SONY)" Model="FX40">
+    <BootCode>3A 00 08 00 08 45 08 0D A9 17 2E 00 00 00 3F 9A</BootCode>
+    <Shutdown>3A 00 08 00 08 45 08 0D A9 17 2F 00 00 00 3F 9A</Shutdown>
+    <RGB1>3A 00 08 00 08 45 08 0D A9 17 2B 00 00 00 3F 9A</RGB1>
+    <RGB2>3A 00 08 00 08 45 08 0D A9 17 2C 00 00 00 3F 9A</RGB2>
+    <VIDEO>3A 00 08 00 08 45 08 0D A9 00 01 00 00 04 05 9A</VIDEO>
+    <SVIDEO>3A 00 08 00 08 45 08 0D A9 17 2A 00 00 00 3F 9A</SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="惠普(HP)" Model="型号">
+    <BootCode>2A 57 41 4B 45 0D</BootCode>
+    <Shutdown>2A 53 48 44 4E 0D</Shutdown>
+    <RGB1>2A 52 53 52 43 3D 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>2A 52 53 52 43 3D 33 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="9270">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 32 0D</Shutdown>
+    <RGB1>43 30 36 0D</RGB1>
+    <RGB2>43 32 32 0D</RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>43 32 34 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="9290">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 32 0D</Shutdown>
+    <RGB1>43 30 36 0D</RGB1>
+    <RGB2>43 32 32 0D</RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>43 32 34 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="C20">
+    <BootCode>BE EF 80 06 00 00 00 01 00 01 00 01 00</BootCode>
+    <Shutdown>BE EF 80 06 00 00 00 01 00 01 00 00 00</Shutdown>
+    <RGB1>BE EF 80 06 00 00 00 01 00 32 00 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 80 06 00 00 00 01 00 32 00 03 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="C60">
+    <BootCode>BE EF 80 06 00 00 00 01 00 01 00 01 00</BootCode>
+    <Shutdown>BE EF 80 06 00 00 00 01 00 01 00 00 00</Shutdown>
+    <RGB1>BE EF 80 06 00 00 00 01 00 32 00 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 80 06 00 00 00 01 00 32 00 03 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="C85">
+    <BootCode>BE EF 80 06 00 00 00 01 00 01 00 01 00</BootCode>
+    <Shutdown>BE EF 80 06 00 00 00 01 00 01 00 00 00</Shutdown>
+    <RGB1>BE EF 80 06 00 00 00 01 00 32 00 00 00</RGB1>
+    <RGB2>BE EF 80 06 00 00 00 01 00 32 00 05 00</RGB2>
+    <VIDEO>BE EF 80 06 00 00 00 01 00 32 00 03 00</VIDEO>
+    <SVIDEO>BE EF 80 06 00 00 00 01 00 32 00 02 00</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="C95">
+    <BootCode>BE EF 80 06 00 00 00 01 00 01 00 01 00</BootCode>
+    <Shutdown>BE EF 80 06 00 00 00 01 00 01 00 00 00</Shutdown>
+    <RGB1>BE EF 80 06 00 00 00 01 00 32 00 00 00</RGB1>
+    <RGB2>BE EF 80 06 00 00 00 01 00 32 00 05 00</RGB2>
+    <VIDEO>BE EF 80 06 00 00 00 01 00 32 00 03 00</VIDEO>
+    <SVIDEO>BE EF 80 06 00 00 00 01 00 32 00 02 00</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="C100">
+    <BootCode>BE EF 80 06 00 00 00 01 00 01 00 01 00</BootCode>
+    <Shutdown>BE EF 80 06 00 00 00 01 00 01 00 00 00</Shutdown>
+    <RGB1>BE EF 80 06 00 00 00 01 00 32 00 00 00</RGB1>
+    <RGB2>BE EF 80 06 00 00 00 01 00 32 00 05 00</RGB2>
+    <VIDEO>BE EF 80 06 00 00 00 01 00 32 00 03 00</VIDEO>
+    <SVIDEO>BE EF 80 06 00 00 00 01 00 32 00 02 00</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="C105">
+    <BootCode>BE EF 80 06 00 00 00 01 00 01 00 01 00</BootCode>
+    <Shutdown>BE EF 80 06 00 00 00 01 00 01 00 00 00</Shutdown>
+    <RGB1>BE EF 80 06 00 00 00 01 00 32 00 00 00</RGB1>
+    <RGB2>BE EF 80 06 00 00 00 01 00 32 00 05 00</RGB2>
+    <VIDEO>BE EF 80 06 00 00 00 01 00 32 00 03 00</VIDEO>
+    <SVIDEO>BE EF 80 06 00 00 00 01 00 32 00 02 00</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="C200">
+    <BootCode>BE EF 80 06 00 00 00 01 00 01 00 01 00</BootCode>
+    <Shutdown>BE EF 80 06 00 00 00 01 00 01 00 00 00</Shutdown>
+    <RGB1>BE EF 80 06 00 00 00 01 00 32 00 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 80 06 00 00 00 01 00 32 00 03 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="C300">
+    <BootCode>BE EF 80 06 00 00 00 01 00 01 00 01 00</BootCode>
+    <Shutdown>BE EF 80 06 00 00 00 01 00 01 00 00 00</Shutdown>
+    <RGB1>BE EF 80 06 00 00 00 01 00 32 00 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 80 06 00 00 00 01 00 32 00 03 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="C212">
+    <BootCode>28 50 57 52 31 29</BootCode>
+    <Shutdown>28 50 57 52 30 29</Shutdown>
+    <RGB1>28 53 52 43 30 29</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 53 52 43 32 29</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="C214">
+    <BootCode>28 50 57 52 31 29</BootCode>
+    <Shutdown>28 50 57 52 30 29</Shutdown>
+    <RGB1>28 53 52 43 30 29</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 53 52 43 32 29</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="ASK宝施玛(proxima)" Model="C216">
+    <BootCode>28 50 57 52 31 29</BootCode>
+    <Shutdown>28 50 57 52 30 29</Shutdown>
+    <RGB1>28 53 52 43 30 29</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 53 52 43 32 29</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="720">
+    <BootCode>50 57 52 20 4F 4E 0D</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D</RGB1>
+    <RGB2>53 4F 55 52 43 45 20 32 31 0D</RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D</VIDEO>
+    <SVIDEO>53 4F 55 52 43 45 20 34 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>Even</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="730">
+    <BootCode>50 57 52 20 4F 4E 0D</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D</RGB1>
+    <RGB2>53 4F 55 52 43 45 20 32 31 0D</RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D</VIDEO>
+    <SVIDEO>53 4F 55 52 43 45 20 34 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="735">
+    <BootCode>50 57 52 20 4F 4E 0D</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D</RGB1>
+    <RGB2>53 4F 55 52 43 45 20 32 31 0D</RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D</VIDEO>
+    <SVIDEO>53 4F 55 52 43 45 20 34 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="520">
+    <BootCode>50 57 52 20 4F 4E 0D</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D</RGB1>
+    <RGB2>53 4F 55 52 43 45 20 32 31 0D</RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D</VIDEO>
+    <SVIDEO>53 4F 55 52 43 45 20 34 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="820">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 31 29 0D</RGB1>
+    <RGB2>28 53 52 43 30 29 0D</RGB2>
+    <VIDEO>28 53 52 43 34 29 0D</VIDEO>
+    <SVIDEO>28 53 52 43 33 29 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="30">
+    <BootCode>50 57 52 20 4F 4E 0D</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D</RGB1>
+    <RGB2>53 4F 55 52 43 45 20 32 31 0D</RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D</VIDEO>
+    <SVIDEO>53 4F 55 52 43 45 20 34 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="52">
+    <BootCode>50 57 52 20 4F 4E 0D</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D</RGB1>
+    <RGB2>53 4F 55 52 43 45 20 32 31 0D</RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D</VIDEO>
+    <SVIDEO>53 4F 55 52 43 45 20 34 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="73">
+    <BootCode>50 57 52 20 4F 4E 0D</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D</RGB1>
+    <RGB2>53 4F 55 52 43 45 20 32 31 0D</RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D</VIDEO>
+    <SVIDEO>53 4F 55 52 43 45 20 34 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="53">
+    <BootCode>50 57 52 20 4F 4E 0D</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D</RGB1>
+    <RGB2>53 4F 55 52 43 45 20 32 31 0D</RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D</VIDEO>
+    <SVIDEO>53 4F 55 52 43 45 20 34 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="S1">
+    <BootCode>50 57 52 20 4F 4E 0D</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D</RGB1>
+    <RGB2>53 4F 55 52 43 45 20 32 31 0D</RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D</VIDEO>
+    <SVIDEO>53 4F 55 52 43 45 20 34 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="811">
+    <BootCode>50 57 52 20 4F 4E 0D</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D</RGB1>
+    <RGB2>53 4F 55 52 43 45 20 32 31 0D</RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D</VIDEO>
+    <SVIDEO>53 4F 55 52 43 45 20 34 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="810">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 32 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>43 30 35 0D</RGB2>
+    <VIDEO>43 30 36 0D</VIDEO>
+    <SVIDEO>43 30 37 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="800">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 0E D2 01 00 00 20 03 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="600">
+    <BootCode>50 57 52 20 4F 4E 0D</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D</RGB1>
+    <RGB2>53 4F 55 52 43 45 20 32 31 0D</RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D</VIDEO>
+    <SVIDEO>53 4F 55 52 43 45 20 34 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="TS10">
+    <BootCode>50 57 52 20 4F 4E 0D</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D</RGB1>
+    <RGB2>53 4F 55 52 43 45 20 32 31 0D</RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D</VIDEO>
+    <SVIDEO>53 4F 55 52 43 45 20 34 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="82">
+    <BootCode>50 57 52 20 4F 4E 0D 0A</BootCode>
+    <Shutdown>50 57 52 20 4F 46 46 0D 0A</Shutdown>
+    <RGB1>53 4F 55 52 43 45 20 31 31 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>53 4F 55 52 43 45 20 34 31 0D 0A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱普生(Epson)" Model="5300">
+    <BootCode>1B 07 01 00 03 01 F4</BootCode>
+    <Shutdown>1B 07 01 00 03 00 F5</Shutdown>
+    <RGB1>1B 07 01 01 00 10 E7</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>1B 07 01 01 00 20 D7</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="夏普(Sharp)" Model="Sharp">
+    <BootCode>50 4F 57 52 20 20 20 31 0D</BootCode>
+    <Shutdown>50 4F 57 52 20 20 20 30 0D</Shutdown>
+    <RGB1>49 52 47 42 20 20 20 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>49 56 45 44 20 20 20 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="明基(BENQ)" Model="8225">
+    <BootCode>BE EF 02 06 00 13 CE AA 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 3E C4 D7 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 02 06 00 AE C6 C7 00 00 00 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 02 06 00 51 C6 C8 00 00 00 00 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="明基(BENQ)" Model="8235">
+    <BootCode>BE EF 02 06 00 13 CE AA 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 3E C4 D7 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 02 06 00 AE C6 C7 00 00 00 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 02 06 00 51 C6 C8 00 00 00 00 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="明基(BENQ)" Model="8125">
+    <BootCode>BE EF 02 06 00 13 CE AA 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 3E C4 D7 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 02 06 00 AE C6 C7 00 00 00 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 02 06 00 51 C6 C8 00 00 00 00 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="明基(BENQ)" Model="MP775">
+    <BootCode>06 14 00 03 00 34 11 00 5C</BootCode>
+    <Shutdown>06 14 00 03 00 34 11 01 5D</Shutdown>
+    <RGB1>06 14 00 04 00 34 13 01 00 60</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>06 14 00 04 00 34 13 01 04 64</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>128000</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="明基(BENQ)" Model="650">
+    <BootCode>BE EF 02 06 00 13 CE AA 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 13 CE AA 00 00 00 00 00 BE EF 02 06 00 13 CE AA 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 03 19 00 EA ED 01 DA 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 19 00 29 EF 01 DA 02 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="明基(BENQ)" Model="660">
+    <BootCode>BE EF 02 06 00 13 CE AA 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 13 CE AA 00 00 00 00 00 BE EF 02 06 00 13 CE AA 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 03 19 00 EA ED 01 DA 02 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 19 00 29 EF 01 DA 02 00 00 00 00 00 00 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="晨星" Model="CX550">
+    <BootCode>50 4F 57 52 20 20 20 31 0D</BootCode>
+    <Shutdown>50 4F 57 52 20 20 20 30 0D</Shutdown>
+    <RGB1>49 52 47 42 20 20 20 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>49 56 45 44 20 20 20 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="晨星" Model="CX856">
+    <BootCode>7E 50 4E 0D</BootCode>
+    <Shutdown>7E 50 46 0D</Shutdown>
+    <RGB1>7E 53 52 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>7E 53 56 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="晨星" Model="CX615P">
+    <BootCode>BE EF 03 19 00 8E 85 01 01 02 CC CC FF FF FF FF 00 00 00 00 CC CC CC CC CC CC CC CC CC CC CC CC</BootCode>
+    <Shutdown>BE EF 04 07 00 F0 29 01 20 00 CC CC CC CC</Shutdown>
+    <RGB1>BE EF 03 19 00 B4 91 01 B5 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC CC CC CC CC CC CC CC</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 19 00 24 50 01 B5 02 CC CC 00 00 00 00 01 00 00 00 CC CC CC CC CC CC CC CC CC CC CC CC</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="晨星" Model="CX662">
+    <BootCode>BE EF 02 06 00 3D CF A4 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 FD C1 E4 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 03 19 00 B4 91 01 B5 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC CC CC CC CC CC CC CC</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 19 00 24 50 01 B5 02 CC CC 00 00 00 00 01 00 00 00 CC CC CC CC CC CC CC CC CC CC CC CC</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="丽讯(Vivitek)" Model="D820MS">
+    <BootCode>7E 50 4E 0D</BootCode>
+    <Shutdown>7E 50 46 0D</Shutdown>
+    <RGB1>7E 53 52 0D</RGB1>
+    <RGB2>7E 53 47 0D</RGB2>
+    <VIDEO>7E 53 56 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="DIGITEL" Model="全部型号">
+    <BootCode>BE EF 02 06 00 9D C6 C4 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 9D C6 C4 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 02 06 00 D3 C0 EA 00 00 00 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 0E D2 01 00 00 20 03 00</RGB2>
+    <VIDEO>BE EF 02 06 00 E0 C0 E9 00 00 00 00 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="普乐士(PLUS)" Model="U5系列">
+    <BootCode>23 50 31 0D 0A</BootCode>
+    <Shutdown>23 50 30 0D 0A</Shutdown>
+    <RGB1>23 53 52 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>23 53 56 0D 0A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="普乐士(PLUS)" Model="其他系列">
+    <BootCode>23 50 31 43 52 4C 46</BootCode>
+    <Shutdown>23 50 30 43 52 4C 46</Shutdown>
+    <RGB1>23 50 52 43 52 4C 46</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>23 53 56 43 52 4C 46</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="LC-XT5">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 31 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 36 0D 0A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="SD10">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 31 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 36 0D 0A</VIDEO>
+    <SVIDEO>43 33 34 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="LC-X999">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="984">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="990">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="983">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="980U">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="980E">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="982U">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="870U">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="970U">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="970E">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="860">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="XC1">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="XM2">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="SM3">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="NB1">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="NB2">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="XM1">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="XNB1">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="XNB2">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="LC-SM1">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="SM2">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="LC-SX3/2/1">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 38 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="LC-X3/21A">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 38 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="LC-X1*/X50">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 38 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="XG200">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 46 20 49 4E 50 55 54 20 31 0D 0A</RGB1>
+    <RGB2>43 46 20 49 4E 50 55 54 20 32 0D 0A</RGB2>
+    <VIDEO>43 46 20 49 4E 50 55 54 20 33 0D 0A</VIDEO>
+    <SVIDEO>43 46 20 49 4E 50 55 54 20 33 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="XG100">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 46 20 49 4E 50 55 54 20 31 0D 0A</RGB1>
+    <RGB2>43 46 20 49 4E 50 55 54 20 32 0D 0A</RGB2>
+    <VIDEO>43 46 20 49 4E 50 55 54 20 33 0D 0A</VIDEO>
+    <SVIDEO>43 46 20 49 4E 50 55 54 20 33 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="XG110">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 46 20 49 4E 50 55 54 20 31 0D 0A</RGB1>
+    <RGB2>43 46 20 49 4E 50 55 54 20 32 0D 0A</RGB2>
+    <VIDEO>43 46 20 49 4E 50 55 54 20 33 0D 0A</VIDEO>
+    <SVIDEO>43 46 20 49 4E 50 55 54 20 33 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="XG210">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 46 20 49 4E 50 55 54 20 31 0D 0A</RGB1>
+    <RGB2>43 46 20 49 4E 50 55 54 20 32 0D 0A</RGB2>
+    <VIDEO>43 46 20 49 4E 50 55 54 20 33 0D 0A</VIDEO>
+    <SVIDEO>43 46 20 49 4E 50 55 54 20 33 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="LC-XNB4M&amp;S">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 36 0D 0A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="LC-XNB3&amp;W&amp;S">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 36 0D 0A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="LC-X4&amp;L">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 31 0D 0A</Shutdown>
+    <RGB1>43 30 36 0D 0A</RGB1>
+    <RGB2>43 30 35 0D 0A</RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="LX-XB25">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 31 0D 0A</Shutdown>
+    <RGB1>43 30 36 0D 0A</RGB1>
+    <RGB2>43 30 35 0D 0A</RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="LX-XB20">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 31 0D 0A</Shutdown>
+    <RGB1>43 30 36 0D 0A</RGB1>
+    <RGB2>43 30 35 0D 0A</RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="LX-SB20">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 31 0D 0A</Shutdown>
+    <RGB1>43 30 36 0D 0A</RGB1>
+    <RGB2>43 30 35 0D 0A</RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="XT1">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 38 0D 0A</RGB1>
+    <RGB2>43 30 35 0D 0A</RGB2>
+    <VIDEO>43 30 36 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="XT2">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 38 0D 0A</RGB1>
+    <RGB2>43 30 35 0D 0A</RGB2>
+    <VIDEO>43 30 36 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="XT3">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 38 0D 0A</RGB1>
+    <RGB2>43 30 35 0D 0A</RGB2>
+    <VIDEO>43 30 36 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="UXT1">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 38 0D 0A</RGB1>
+    <RGB2>43 30 35 0D 0A</RGB2>
+    <VIDEO>43 30 36 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="UXT3">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 38 0D 0A</RGB1>
+    <RGB2>43 30 35 0D 0A</RGB2>
+    <VIDEO>43 30 36 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="爱其(EIKI)" Model="X4/X5/SX4">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 32 0D 0A</Shutdown>
+    <RGB1>43 30 38 0D 0A</RGB1>
+    <RGB2>43 30 35 0D 0A</RGB2>
+    <VIDEO>43 30 36 0D 0A</VIDEO>
+    <SVIDEO>43 30 37 0D 0A</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥视(asee)" Model="3380">
+    <BootCode>BE EF 02 06 00 9D C6 C4 00 00 00 00 00 BE EF 02 06 00 9D C6 C4 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 9D C6 C4 00 00 00 00 00 BE EF 02 06 00 9D C6 C4 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 02 06 00 D3 C0 EA 00 00 00 00 00 BE EF 02 06 00 D3 C0 EA 00 00 00 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 02 06 00 E0 C0 E9 00 00 00 00 00 BE EF 02 06 00 E0 C0 E9 00 00 00 00 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥视(asee)" Model="ATP-2800">
+    <BootCode>BE EF 02 06 00 01 CA 98 00 00 00 00 00 BE EF 02 06 00 01 CA 98 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 01 CA 98 00 00 00 00 00 BE EF 02 06 00 01 CA 98 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 03 19 00 65 63 01 39 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC BE EF 03 19 00 65 63 01 39 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 19 00 04 E2 01 39 02 CC CC 00 00 00 00 02 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC BE EF 03 19 00 04 E2 01 39 02 CC CC 00 00 00 00 02 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥视(asee)" Model="ATP-2900">
+    <BootCode>BE EF 02 06 00 01 CA 98 00 00 00 00 00 BE EF 02 06 00 01 CA 98 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 01 CA 98 00 00 00 00 00 BE EF 02 06 00 01 CA 98 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 03 19 00 65 63 01 39 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC BE EF 03 19 00 65 63 01 39 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 19 00 04 E2 01 39 02 CC CC 00 00 00 00 02 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC BE EF 03 19 00 04 E2 01 39 02 CC CC 00 00 00 00 02 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥视(asee)" Model="ATP-2950">
+    <BootCode>BE EF 02 06 00 01 CA 98 00 00 00 00 00 BE EF 02 06 00 01 CA 98 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 01 CA 98 00 00 00 00 00 BE EF 02 06 00 01 CA 98 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 03 19 00 65 63 01 39 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC BE EF 03 19 00 65 63 01 39 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 19 00 04 E2 01 39 02 CC CC 00 00 00 00 02 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC BE EF 03 19 00 04 E2 01 39 02 CC CC 00 00 00 00 02 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥视(asee)" Model="ATP-3300">
+    <BootCode>BE EF 02 06 00 01 CA 98 00 00 00 00 00 BE EF 02 06 00 01 CA 98 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 01 CA 98 00 00 00 00 00 BE EF 02 06 00 01 CA 98 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 03 19 00 65 63 01 39 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC BE EF 03 19 00 65 63 01 39 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 19 00 04 E2 01 39 02 CC CC 00 00 00 00 02 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC BE EF 03 19 00 04 E2 01 39 02 CC CC 00 00 00 00 02 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥视(asee)" Model="ATP-3350">
+    <BootCode>BE EF 02 06 00 01 CA 98 00 00 00 00 00 BE EF 02 06 00 01 CA 98 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 01 CA 98 00 00 00 00 00 BE EF 02 06 00 01 CA 98 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 03 19 00 65 63 01 39 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC BE EF 03 19 00 65 63 01 39 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 19 00 04 E2 01 39 02 CC CC 00 00 00 00 02 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC BE EF 03 19 00 04 E2 01 39 02 CC CC 00 00 00 00 02 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥视(asee)" Model="ATP-3600">
+    <BootCode>BE EF 02 06 00 01 CA 98 00 00 00 00 00 BE EF 02 06 00 01 CA 98 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 01 CA 98 00 00 00 00 00 BE EF 02 06 00 01 CA 98 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 03 19 00 65 63 01 39 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC BE EF 03 19 00 65 63 01 39 02 CC CC 00 00 00 00 00 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 19 00 04 E2 01 39 02 CC CC 00 00 00 00 02 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC BE EF 03 19 00 04 E2 01 39 02 CC CC 00 00 00 00 02 00 00 00 CC CC CC CC CC  CC CC CC CC CC CC CC</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥图码(optoma)" Model="759">
+    <BootCode>4F 4B 4F 4B 4F 4B 4F 4B 4F 4B 0D 0A</BootCode>
+    <Shutdown>49 52 31 30 30 0D 0A</Shutdown>
+    <RGB1>49 52 30 32 30 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>49 52 30 32 56 0D 0A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥图码(optoma)" Model="757">
+    <BootCode>2A 20 30 20 49 52 20 30 30 31 0D</BootCode>
+    <Shutdown>2A 20 30 20 49 52 20 30 30 32 0D</Shutdown>
+    <RGB1>2A 20 30 20 49 52 20 30 30 33 0D</RGB1>
+    <RGB2>2A 20 30 20 49 52 20 30 31 36 0D</RGB2>
+    <VIDEO>2A 20 30 20 49 52 20 30 31 39 0D</VIDEO>
+    <SVIDEO>2A 20 30 20 49 52 20 30 31 38 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥图码(optoma)" Model="755">
+    <BootCode>50 4F 57 45 52 3D 31 0D</BootCode>
+    <Shutdown>50 4F 57 45 52 3D 30 0D</Shutdown>
+    <RGB1>49 4E 50 55 54 3D 31 0D</RGB1>
+    <RGB2>49 4E 50 55 54 3D 31 31 0D</RGB2>
+    <VIDEO>49 4E 50 55 54 3D 34 0D</VIDEO>
+    <SVIDEO>49 4E 50 55 54 3D 32 0D</SVIDEO>
+    <Baudrate>115200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥图码(optoma)" Model="753">
+    <BootCode>50 4F 57 45 52 3D 31 0D</BootCode>
+    <Shutdown>50 4F 57 45 52 3D 30 0D</Shutdown>
+    <RGB1>49 4E 50 55 54 3D 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>49 4E 50 55 54 3D 34 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>115200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥图码(optoma)" Model="750">
+    <BootCode>50 4F 57 45 52 3D 31 0D</BootCode>
+    <Shutdown>50 4F 57 45 52 3D 30 0D</Shutdown>
+    <RGB1>49 4E 50 55 54 3D 31 0D</RGB1>
+    <RGB2>49 4E 50 55 54 3D 31 31 0D</RGB2>
+    <VIDEO>49 4E 50 55 54 3D 34 0D</VIDEO>
+    <SVIDEO>49 4E 50 55 54 3D 32 0D</SVIDEO>
+    <Baudrate>115200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥图码(optoma)" Model="H55">
+    <BootCode>50 4F 57 45 52 3D 31 0D</BootCode>
+    <Shutdown>50 4F 57 45 52 3D 30 0D</Shutdown>
+    <RGB1>49 4E 50 55 54 3D 31 0D</RGB1>
+    <RGB2>49 4E 50 55 54 3D 31 31 0D</RGB2>
+    <VIDEO>49 4E 50 55 54 3D 34 0D</VIDEO>
+    <SVIDEO>49 4E 50 55 54 3D 32 0D</SVIDEO>
+    <Baudrate>115200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥图码(optoma)" Model="EP756">
+    <BootCode>4F 4B 4F 4B 4F 4B 4F 4B 4F 4B 0D 0A</BootCode>
+    <Shutdown>2A 20 30 20 49 52 20 30 30 32 0D OA</Shutdown>
+    <RGB1>2A 20 30 20 49 52 20 30 31 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>2A 20 30 20 49 52 20 30 31 39 0D 0A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>115200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="奥图码(optoma)" Model="EP739">
+    <BootCode>4F 4B 4F 4B 4F 4B 4F 4B 4F 4B 0D 0A</BootCode>
+    <Shutdown>2A 20 30 20 49 52 20 30 30 32 0D OA</Shutdown>
+    <RGB1>2A 20 30 20 49 52 20 30 31 35 0D 0A</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>2A 20 30 20 49 52 20 30 31 39 0D 0A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>115200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="东芝(Toshiba)" Model="TLP-X2000">
+    <BootCode>02 50 4F 4E 03</BootCode>
+    <Shutdown>02 50 53 44 03</Shutdown>
+    <RGB1>02 49 4E 33 03</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 49 4E 39 03</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="东芝(Toshiba)" Model="TLP-T50">
+    <BootCode>02 50 4F 4E 03</BootCode>
+    <Shutdown>02 50 53 44 03</Shutdown>
+    <RGB1>02 49 4E 31 03</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 49 4E 35 03</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="东芝(Toshiba)" Model="T90">
+    <BootCode>02 50 4F 4E 03</BootCode>
+    <Shutdown>02 50 4F 46 03</Shutdown>
+    <RGB1>02 49 4E 31 03</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 49 4E 33 03</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="东芝(Toshiba)" Model="T91">
+    <BootCode>02 50 4F 4E 03</BootCode>
+    <Shutdown>02 50 4F 46 03</Shutdown>
+    <RGB1>02 49 4E 31 03</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 49 4E 33 03</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="东芝(Toshiba)" Model="T98">
+    <BootCode>02 50 4F 4E 03</BootCode>
+    <Shutdown>02 50 4F 46 03</Shutdown>
+    <RGB1>02 49 4E 31 03</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 49 4E 33 03</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="东芝(Toshiba)" Model="TLP-S40">
+    <BootCode>02 50 4F 4E 03</BootCode>
+    <Shutdown>02 50 53 44 03</Shutdown>
+    <RGB1>02 49 4E 31 03</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 49 4E 33 03</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="东芝(Toshiba)" Model="TLP-D1">
+    <BootCode>02 50 4F 4E 03</BootCode>
+    <Shutdown>02 50 53 44 03</Shutdown>
+    <RGB1>02 49 4E 31 03</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 49 4E 33 03</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="东芝(Toshiba)" Model="TLP-600">
+    <BootCode>02 50 4F 4E 03</BootCode>
+    <Shutdown>02 50 53 44 03</Shutdown>
+    <RGB1>02 49 4E 31 03</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 49 4E 33 03</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="东芝(Toshiba)" Model="T60">
+    <BootCode>02 50 4F 4E 03</BootCode>
+    <Shutdown>02 50 53 44 03</Shutdown>
+    <RGB1>02 49 4E 31 03</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 49 4E 33 03</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="东芝(Toshiba)" Model="TDP-T30">
+    <BootCode>02 50 4F 4E 03</BootCode>
+    <Shutdown>02 50 53 44 03</Shutdown>
+    <RGB1>02 49 4E 31 03</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 49 4E 33 03</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="东芝(Toshiba)" Model="T3">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 41 53 43 31 29 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 41 53 43 31 29 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="东芝(Toshiba)" Model="S3">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 41 53 43 31 29 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 41 53 43 31 29 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="吉林方正" Model="方正部分型号">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 32 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 36 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+  </PresentConfig>
+  <PresentConfig Brand="飞利浦(Philips)" Model="PXG20">
+    <BootCode>50 4F 57 52 20 20 20 31 0D</BootCode>
+    <Shutdown>50 4F 57 52 20 20 20 30 0D</Shutdown>
+    <RGB1>49 52 47 42 20 20 20 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>49 56 45 44 20 20 20 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="飞利浦(Philips)" Model="LC1241">
+    <BootCode>50 4F 57 52 20 20 20 31 0D</BootCode>
+    <Shutdown>50 4F 57 52 20 20 20 30 0D</Shutdown>
+    <RGB1>49 52 47 42 20 20 20 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>49 56 45 44 20 20 20 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="飞利浦(Philips)" Model="LC4745">
+    <BootCode>3A 00 00 00 0F F1</BootCode>
+    <Shutdown>3A 04 00 00 0C 01 2E 00 00 C1</Shutdown>
+    <RGB1>3A 04 00 00 0C 01 04 00 05 E6</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>3A 04 00 00 0C 01 04 00 04 E7</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="640">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 30 29 0D</RGB1>
+    <RGB2>28 53 52 43 30 29 0D</RGB2>
+    <VIDEO>28 53 52 43 34 29 0D</VIDEO>
+    <SVIDEO>28 53 52 43 33 29 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="540">
+    <BootCode>02 00 00 00 00 02</BootCode>
+    <Shutdown>02 01 00 00 00 03</Shutdown>
+    <RGB1>02 03 00 00 02 01 01 09</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 03 00 00 02 01 06 0E</VIDEO>
+    <SVIDEO>02 03 00 00 02 01 0B 13</SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="1200">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="770">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 32 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 31 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="225">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 30 29 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 53 52 43 31 29 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="350">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 30 29 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 53 52 43 31 29 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="340">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 30 29 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 53 52 43 31 29 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="435z">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 30 29 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 53 52 43 31 29 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="425z">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 30 29 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 53 52 43 31 29 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="425">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 30 29 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 53 52 43 31 29 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="420">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 30 29 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 53 52 43 31 29 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="400">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 30 29 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 53 52 43 31 29 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="740">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 30 29 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 53 52 43 31 29 0D</VIDEO>
+    <SVIDEO>28 53 52 43 32 29 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="530">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 32 29 0D</RGB1>
+    <RGB2>28 53 52 43 31 29 0D</RGB2>
+    <VIDEO>28 53 52 43 35 29 0D</VIDEO>
+    <SVIDEO>28 53 52 43 34 29 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="500">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 32 29 0D</RGB1>
+    <RGB2>28 53 52 43 31 29 0D</RGB2>
+    <VIDEO>28 53 52 43 35 29 0D</VIDEO>
+    <SVIDEO>28 53 52 43 34 29 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="630">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 30 29 0D</RGB1>
+    <RGB2>28 53 52 43 32 29 0D</RGB2>
+    <VIDEO>28 53 52 43 34 29 0D</VIDEO>
+    <SVIDEO>28 53 52 43 35 29 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="790">
+    <BootCode>50 57 52 3B 31 0D</BootCode>
+    <Shutdown>50 57 52 3B 30 0D</Shutdown>
+    <RGB1>53 52 43 3B 30 0D</RGB1>
+    <RGB2>53 52 43 3B 36 0D</RGB2>
+    <VIDEO>53 52 43 3B 32 0D</VIDEO>
+    <SVIDEO>53 52 43 3B 31 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="110">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 37 29 0D</RGB1>
+    <RGB2>28 53 52 43 31 29 0D</RGB2>
+    <VIDEO>28 53 52 43 35 29 0D</VIDEO>
+    <SVIDEO>28 53 52 43 34 29 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="RP10S">
+    <BootCode>BE EF 80 06 00 00 00 01 00 01 00 01 00</BootCode>
+    <Shutdown>BE EF 80 06 00 00 00 01 00 01 00 00 00</Shutdown>
+    <RGB1>BE EF 80 06 00 00 00 01 00 32 00 01 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 80 06 00 00 00 01 00 32 00 03 00</VIDEO>
+    <SVIDEO>BE EF 80 06 00 00 00 01 00 32 00 0200</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="RP10X">
+    <BootCode>BE EF 80 06 00 00 00 01 00 01 00 01 00</BootCode>
+    <Shutdown>BE EF 80 06 00 00 00 01 00 01 00 00 00</Shutdown>
+    <RGB1>BE EF 80 06 00 00 00 01 00 32 00 01 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 80 06 00 00 00 01 00 32 00 03 00</VIDEO>
+    <SVIDEO>BE EF 80 06 00 00 00 01 00 32 00 0200</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="2800">
+    <BootCode>BE EF 80 06 00 00 00 01 00 01 00 01 00</BootCode>
+    <Shutdown>BE EF 80 06 00 00 00 01 00 01 00 00 00</Shutdown>
+    <RGB1>BE EF 80 06 00 00 00 01 00 32 00 01 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 80 06 00 00 00 01 00 32 00 03 00</VIDEO>
+    <SVIDEO>BE EF 80 06 00 00 00 01 00 32 00 0200</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="2900">
+    <BootCode>BE EF 80 06 00 00 00 01 00 01 00 01 00</BootCode>
+    <Shutdown>BE EF 80 06 00 00 00 01 00 01 00 00 00</Shutdown>
+    <RGB1>BE EF 80 06 00 00 00 01 00 32 00 01 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 80 06 00 00 00 01 00 32 00 03 00</VIDEO>
+    <SVIDEO>BE EF 80 06 00 00 00 01 00 32 00 0200</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="840">
+    <BootCode>02 00 00 00 00 02</BootCode>
+    <Shutdown>02 01 00 00 00 03</Shutdown>
+    <RGB1>02 03 00 00 02 01 01 09</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 03 00 00 02 01 06 0E</VIDEO>
+    <SVIDEO>02 03 00 00 02 01 0B 13</SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="850">
+    <BootCode>02 00 00 00 00 02</BootCode>
+    <Shutdown>02 01 00 00 00 03</Shutdown>
+    <RGB1>02 03 00 00 02 01 01 09</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 03 00 00 02 01 06 0E</VIDEO>
+    <SVIDEO>02 03 00 00 02 01 0B 13</SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富可视(Infoucs)" Model="1000">
+    <BootCode>28 50 57 52 31 29 0D</BootCode>
+    <Shutdown>28 50 57 52 30 29 0D</Shutdown>
+    <RGB1>28 53 52 43 31 29 0D</RGB1>
+    <RGB2>28 53 52 43 30 29 0D</RGB2>
+    <VIDEO>28 53 52 43 34 29 0D</VIDEO>
+    <SVIDEO>28 53 52 43 33 29 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="SX5500W">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 3E D0 01 00 00 20 04 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="X985W">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 3E D0 01 00 00 20 04 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="X980W">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 3E D0 01 00 00 20 04 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="X990W">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 3E D0 01 00 00 20 04 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="S310W">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 3E D0 01 00 00 20 04 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="S370W">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 3E D0 01 00 00 20 04 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="S225">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 3E D0 01 00 00 20 04 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="X275">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 3E D0 01 00 00 20 04 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="X380W">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 3E D0 01 00 00 20 04 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="X430">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 3E D0 01 00 00 20 04 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="HX300">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 3E D0 01 00 00 20 04 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="S845W">
+    <BootCode>31 11 3F</BootCode>
+    <Shutdown>31 11 3E</Shutdown>
+    <RGB1>31 21 21</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>31 21 11</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="S940W">
+    <BootCode>31 11 3F</BootCode>
+    <Shutdown>31 11 3E</Shutdown>
+    <RGB1>31 21 21</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>31 21 11</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="S950W">
+    <BootCode>31 11 1F</BootCode>
+    <Shutdown>31 11 1E</Shutdown>
+    <RGB1>31 21 21</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>31 21 11</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="X955W">
+    <BootCode>31 11 1F</BootCode>
+    <Shutdown>31 11 1E</Shutdown>
+    <RGB1>31 21 21</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>31 21 11</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日立(Hitachi)" Model="X955E">
+    <BootCode>31 11 1F</BootCode>
+    <Shutdown>31 11 1E</Shutdown>
+    <RGB1>31 21 21</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>31 21 11</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三菱(mitsubishi)" Model="三菱">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XP40">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 31 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>43 30 36 0D 0A</RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XP41">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 31 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>43 30 36 0D 0A</RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XP46">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 31 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>43 30 36 0D 0A</RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="PLC-XW6680C">
+    <BootCode>43 30 30 0D 0A</BootCode>
+    <Shutdown>43 30 31 0D 0A</Shutdown>
+    <RGB1>43 30 35 0D 0A</RGB1>
+    <RGB2>43 30 36 0D 0A</RGB2>
+    <VIDEO>43 30 37 0D 0A</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="SU35">
+    <BootCode>30 30 30 0D</BootCode>
+    <Shutdown>30 30 32 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 36 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="SU07">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="SU10">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="SU15">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="SU20">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="SU22">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XU20">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XU21">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XU22">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="SU30">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XU30">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XU35">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="SW10">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="SW15">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XW10">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XW15">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="SW20">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XW20">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="PLV-60">
+    <BootCode>30 30 30 0D</BootCode>
+    <Shutdown>30 30 32 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 38 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="PLV-XP40">
+    <BootCode>30 30 30 0D</BootCode>
+    <Shutdown>30 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 38 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="PLV-XP45">
+    <BootCode>30 30 30 0D</BootCode>
+    <Shutdown>30 30 31 0D</Shutdown>
+    <RGB1>43 30 35 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 38 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="9000">
+    <BootCode>30 30 30 0D</BootCode>
+    <Shutdown>30 30 31 0D</Shutdown>
+    <RGB1>43 30 36 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="9005">
+    <BootCode>30 30 30 0D</BootCode>
+    <Shutdown>30 30 31 0D</Shutdown>
+    <RGB1>43 30 36 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XF30">
+    <BootCode>30 30 30 0D</BootCode>
+    <Shutdown>30 30 31 0D</Shutdown>
+    <RGB1>43 30 36 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="EF30">
+    <BootCode>30 30 30 0D</BootCode>
+    <Shutdown>30 30 31 0D</Shutdown>
+    <RGB1>43 30 36 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="三洋(Sanyo)" Model="XF20">
+    <BootCode>30 30 30 0D</BootCode>
+    <Shutdown>30 30 31 0D</Shutdown>
+    <RGB1>43 30 38 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>43 30 37 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="雅图(ACTO)" Model="AT-6300">
+    <BootCode>28 70 77 72 31 29</BootCode>
+    <Shutdown>28 70 77 72 30 29</Shutdown>
+    <RGB1>28 73 72 63 33 29</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>28 73 72 63 31 29</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="雅图(ACTO)" Model="AT-X8250">
+    <BootCode>43 30 30 0D</BootCode>
+    <Shutdown>43 30 31 0D</Shutdown>
+    <RGB1>43 30 32 0D</RGB1>
+    <RGB2>43 30 34 0D</RGB2>
+    <VIDEO>43 30 36 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="雅图(ACTO)" Model="AT-X8280">
+    <BootCode>28 50 57 52 31 29</BootCode>
+    <Shutdown>28 50 57 52 30 29</Shutdown>
+    <RGB1>28 53 52 43 33 29</RGB1>
+    <RGB2>28 53 52 43 34 29</RGB2>
+    <VIDEO>28 53 52 43 32 29</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="优派(viewsonic)" Model="1">
+    <BootCode>BE EF 02 06 00 15 D8 4C 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 15 D8 4C 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 03 19 00 19 29 01 47 02 CC CC 00 00 00 00 00 00 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 19 00 78 A8 01 47 02 CC CC 00 00 00 00 02 00 00 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="优派(viewsonic)" Model="2">
+    <BootCode>BE EF 03 06 00 2A D3 01 00 00 60 00 00</BootCode>
+    <Shutdown>BE EF 03 06 00 BA D2 01 00 00 60 01 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>BE EF 03 06 00 0E D2 01 00 00 20 03 00</RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="优派(viewsonic)" Model="3">
+    <BootCode>7E 50 4E 0D</BootCode>
+    <Shutdown>7E 50 46 0D</Shutdown>
+    <RGB1>7E 53 52 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>7E 53 56 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="7640">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="7650">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="7740">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="7750">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="8649">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="8747">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="S50">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="3M" Model="8660">
+    <BootCode>44 30 30 57 30 30 0D</BootCode>
+    <Shutdown>44 30 30 57 30 31 0D</Shutdown>
+    <RGB1>44 30 32 57 30 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>44 30 32 57 31 31 0D</VIDEO>
+    <SVIDEO>44 30 32 57 31 32 0D</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="LG" Model="部分型号">
+    <BootCode>BE EF 02 06 00 3E C4 D7 00 00 00 00 00</BootCode>
+    <Shutdown>BE EF 02 06 00 C1 C4 D8 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 02 06 00 AE C6 C7 00 00 00 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 02 06 00 51 C6 C8 00 00 00 00 00</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富士通(Fujitsu)" Model="7000SERIES">
+    <BootCode>21 50 52 4D 30 30 0D</BootCode>
+    <Shutdown>21 50 52 4D 30 30 0D</Shutdown>
+    <RGB1>21 50 52 4D 37 38 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>21 50 52 4D 30 35 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富士通(Fujitsu)" Model="750SERUES">
+    <BootCode>21 50 52 4D 30 30 0D</BootCode>
+    <Shutdown>21 50 52 4D 30 30 0D</Shutdown>
+    <RGB1>21 50 52 4D 37 38 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>21 50 52 4D 30 35 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="富士通(Fujitsu)" Model="C211SERIES">
+    <BootCode>21 50 52 4D 30 30 0D</BootCode>
+    <Shutdown>21 50 52 4D 30 30 0D</Shutdown>
+    <RGB1>21 50 52 4D 37 38 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>21 50 52 4D 30 35 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="BARCO" Model="NOT IQ SERIES">
+    <BootCode>FE 01 65 66 FF</BootCode>
+    <Shutdown>FE 01 66 67 FF</Shutdown>
+    <RGB1>FE 01 31 05 36 FF</RGB1>
+    <RGB2>FE 01 31 07 38 FF</RGB2>
+    <VIDEO>FE 01 31 01 33 FF</VIDEO>
+    <SVIDEO>FE 01 31 02 34 FF</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="BARCO" Model="IQ SERIES">
+    <BootCode>FE 01 65 66 FF</BootCode>
+    <Shutdown>FE 01 66 67 FF</Shutdown>
+    <RGB1>FE 01 38 02 3B FF</RGB1>
+    <RGB2>FE 01 38 05 3E FF</RGB2>
+    <VIDEO>FE 01 38 03 3C FF</VIDEO>
+    <SVIDEO>FE 01 38 04 3D FF</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="BOXLIGHT" Model="CP322I">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="BOXLIGHT" Model="CP731I">
+    <BootCode>BE EF 03 06 00 BA D2 01 00 00 60 01 00</BootCode>
+    <Shutdown>BE EF 03 06 00 2A D3 01 00 00 60 00 00</Shutdown>
+    <RGB1>BE EF 03 06 00 FE D2 01 00 00 20 00 00</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>BE EF 03 06 00 6E D3 01 00 00 20 01 00</VIDEO>
+    <SVIDEO>BE EF 03 06 00 9E D3 01 00 00 20 02 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="BOXLIGHT" Model="MP650">
+    <BootCode>31 11 3F</BootCode>
+    <Shutdown>31 11 3E</Shutdown>
+    <RGB1>31 21 21</RGB1>
+    <RGB2>31 21 21</RGB2>
+    <VIDEO>31 21 11</VIDEO>
+    <SVIDEO>31 21 11</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="BOXLIGHT" Model="MP86I">
+    <BootCode>31 11 3F</BootCode>
+    <Shutdown>31 11 3E</Shutdown>
+    <RGB1>31 21 21</RGB1>
+    <RGB2>31 21 21</RGB2>
+    <VIDEO>31 21 11</VIDEO>
+    <SVIDEO>31 21 11</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="BOXLIGHT" Model="MP93I">
+    <BootCode>31 11 3F</BootCode>
+    <Shutdown>31 11 3E</Shutdown>
+    <RGB1>31 21 21</RGB1>
+    <RGB2>31 21 21</RGB2>
+    <VIDEO>31 21 11</VIDEO>
+    <SVIDEO>31 21 11</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="BOXLIGHT" Model="MP83I">
+    <BootCode>31 11 1F</BootCode>
+    <Shutdown>31 11 3E</Shutdown>
+    <RGB1>31 21 21</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>31 21 11</VIDEO>
+    <SVIDEO>31 21 11</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="CHRISTIE" Model="DS-30">
+    <BootCode>BE EF 03 19 00 12 D5 01 9C 02 00 00 00 01 00 00</BootCode>
+    <Shutdown>BE EF 03 19 00 82 14 01 9C 02 00 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 03 19 00 EA E9 01 01 44 00 00 00 00 00 00</RGB1>
+    <RGB2>BE EF 03 19 00 8B 68 01 01 44 00 00 00 02 00 00</RGB2>
+    <VIDEO>BE EF 03 19 00 B9 2A 01 01 44 00 00 00 05 00 00</VIDEO>
+    <SVIDEO>BE EF 03 19 00 29 EB 01 01 44 00 00 00 04 00 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="LUMENS" Model="95/136系列">
+    <BootCode>55 20 50 20 4E</BootCode>
+    <Shutdown>55 20 50 20 46</Shutdown>
+    <RGB1>55 20 53 20 43</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>55 20 53 20 43</VIDEO>
+    <SVIDEO>55 20 53 20 53</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="50">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 31 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="SA51X120">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 31 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="S120">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 31 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="SL1U">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="XD200">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="X400BU">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="XD350">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="XL30">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="XL25">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="SL25">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="X390U">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="SD200">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="XD300L1U">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 31 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 32 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="MITSUBISHI" Model="X500U">
+    <BootCode>30 30 21 0D</BootCode>
+    <Shutdown>30 30 22 0D</Shutdown>
+    <RGB1>30 30 5F 72 32 0D</RGB1>
+    <RGB2>30 30 5F 72 21 0D</RGB2>
+    <VIDEO>30 30 5F 76 31 0D</VIDEO>
+    <SVIDEO>30 30 5F 76 31 0D</SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="POLAROID" Model="360">
+    <BootCode>31 11 3F</BootCode>
+    <Shutdown>31 11 3E</Shutdown>
+    <RGB1>31 21 21</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>31 21 11</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="PROJECTIONDE" Model="SIGN">
+    <BootCode>BE EF 03 19 00 12 D5 01 9C 02 00 00 00 01 00 00</BootCode>
+    <Shutdown>BE EF 03 19 00 82 14 01 9C 02 00 00 00 00 00 00</Shutdown>
+    <RGB1>BE EF 03 19 00 EA E9 01 01 44 00 00 00 00 00 00</RGB1>
+    <RGB2>BE EF 03 19 00 8B 68 01 01 44 00 00 00 02 00 00</RGB2>
+    <VIDEO>BE EF 03 19 00 B9 2A 01 01 44 00 00 00 05 00 00</VIDEO>
+    <SVIDEO>BE EF 03 19 00 29 EB 01 01 44 00 00 00 04 00 00</SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="胜利" Model="G200">
+    <BootCode>21 31 20 55 30 46 20 31 0D</BootCode>
+    <Shutdown>21 31 20 55 30 46 20 39 0D</Shutdown>
+    <RGB1>21 31 20 55 31 41 20 33 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>21 31 20 55 31 41 20 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="胜利" Model="M4000">
+    <BootCode>21 31 20 55 30 46 20 31 0D</BootCode>
+    <Shutdown>21 31 20 55 30 46 20 39 0D</Shutdown>
+    <RGB1>21 31 20 55 31 41 20 33 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>21 31 20 55 31 41 20 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="胜利" Model="G1000">
+    <BootCode>21 31 20 55 30 46 20 31 0D</BootCode>
+    <Shutdown>21 31 20 55 30 46 20 39 0D</Shutdown>
+    <RGB1>21 31 20 55 31 41 20 33 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>21 31 20 55 31 41 20 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="胜利" Model="QX1G">
+    <BootCode>21 31 20 55 30 46 20 31 0D</BootCode>
+    <Shutdown>21 31 20 55 30 46 20 39 0D</Shutdown>
+    <RGB1>21 31 20 55 31 41 20 33 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>21 31 20 55 31 41 20 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="胜利" Model="M2000">
+    <BootCode>21 31 20 55 30 46 20 31 0D</BootCode>
+    <Shutdown>21 31 20 55 30 46 20 39 0D</Shutdown>
+    <RGB1>21 31 20 55 31 41 20 33 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>21 31 20 55 31 41 20 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="胜利" Model="G150">
+    <BootCode>21 31 20 55 30 46 20 31 0D</BootCode>
+    <Shutdown>21 31 20 55 30 46 20 39 0D</Shutdown>
+    <RGB1>21 31 20 55 31 41 20 33 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>21 31 20 55 31 41 20 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>9600</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="胜利" Model="SX21">
+    <BootCode>21 31 20 55 30 46 20 31 0D</BootCode>
+    <Shutdown>21 31 20 55 30 46 20 39 0D</Shutdown>
+    <RGB1>21 31 20 55 31 41 20 33 0D</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>21 31 20 55 31 41 20 31 0D</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>19200</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+  <PresentConfig Brand="日电(NEC)" Model="部分机型">
+    <BootCode>02 00 00 00 00 02</BootCode>
+    <Shutdown>02 01 00 00 00 03</Shutdown>
+    <RGB1>02 03 00 00 02 01 01 09</RGB1>
+    <RGB2>
+    </RGB2>
+    <VIDEO>02 03 00 00 02 01 06 0E</VIDEO>
+    <SVIDEO>
+    </SVIDEO>
+    <Baudrate>38400</Baudrate>
+    <Parity>None</Parity>
+    <Databits>8</Databits>
+    <Stopbits>1</Stopbits>
+    <Hexadecimal>Yes</Hexadecimal>
+  </PresentConfig>
+</ConfigList>
